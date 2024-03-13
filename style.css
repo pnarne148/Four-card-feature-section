@@ -64,12 +64,12 @@ h2{
     font-weight: 600;
     color: hsl(234, 12%, 34%);
     margin: 25px;
-    font-size: 14px;
+    font-size: 18px;
     margin-bottom: 8px;
 }
 
 .card p{
-    font-size: 10px;
+    font-size: 15px;
     font-weight: 400;
     color: hsl(229, 6%, 66%);
     justify-content: center;
@@ -80,7 +80,7 @@ h2{
 
 .card img{
     width: 20%;
-    max-width: 50px;
+    max-width: 75px;
     height: auto;
     align-self: flex-end;
     margin: 0px 30px 25px 10px;
@@ -89,10 +89,6 @@ h2{
 
 @media (min-width: 48em) 
 {
-  body{
-      margin-top: 20px;
-      padding-top: 30px;
-  }
   .card-container{
       flex-direction: row;
       justify-content: center;

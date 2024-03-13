@@ -4,7 +4,7 @@ body{
     justify-content: center;
     font-family: 'Poppins';
     align-items: center;
-    padding-top: 60px;
+    padding-top: 75px;
     padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 60px;
@@ -80,7 +80,7 @@ h2{
 
 .card img{
     width: 20%;
-    max-width: 75px;
+    max-width: 60px;
     height: auto;
     align-self: flex-end;
     margin: 0px 30px 25px 10px;
